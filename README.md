@@ -1,4 +1,4 @@
-# Google-Chrome-Extension-Higlight-Email-Address-on-webpage
+# Google-Chrome-Extension-Highlight-Email-Address-on-webpage
  create a functional and user-friendly extension that enables users to highlight email addresses on a webpage, right-click to access a context menu option, and open an Outlook compose page with the highlighted email pre-filled as the recipient.
 
 Key Requirements:
